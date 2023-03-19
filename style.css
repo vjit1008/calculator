@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to top,#cfd8df 100%,#e2ebfe 100%);
+}
+.heading{
+    color: white;
+}
+.container{
+    margin-left: 30% !important;
+}
+
+.col-md-6{
+margin-top: 150px !important;
+border: 5px solid black;
+background-color: black;
+height: 500px;
+}
+
+input[type=button]{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+   /* background-color: rgb(203, 223, 223); */
+}
+input[type=text]{
+    width:100%;
+    height: 50px;
+    color: black;
+    font-weight: 800;
+    margin-top: 2px;
+    background-color: rgb(16, 34, 15);
+}
